@@ -2,7 +2,6 @@ package com.gildedrose.ItemUtil.ItemTickDecoratorImpl;
 
 import com.gildedrose.Item;
 import com.gildedrose.ItemUtil.ItemTickDecorator;
-
 import static com.gildedrose.GildedRose.UPPER_BOUND_QUALITY;
 
 public class AgedBrieTickDecorator extends ItemTickDecorator {
